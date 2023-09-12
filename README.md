@@ -14,3 +14,5 @@ Intel Core I3 Gen 3 Or later
 
 # NOTES:
 For now Only Support Intel IGPU And ARC
+
+UEFI Only
