@@ -13,6 +13,6 @@ Intel Core I3 Gen 3 Or later
 128GB SSD
 
 # NOTES:
-For now Only Support Intel IGPU And ARC
+currently Only Support Intel IGPU And ARC
 
 UEFI Only
