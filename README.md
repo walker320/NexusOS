@@ -6,7 +6,7 @@ Using KDE With Wayland
 
 System Requirements
 
-Intel Core I3 Gen 3 Or later
+Intel Core I3 Gen 4 Or later
 
 4GB OF Ram
 
